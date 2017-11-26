@@ -1,0 +1,14 @@
+html, body{
+    background: #eee;
+}
+
+.carousel-inner .item img{
+    width:100%;
+    
+}
+.slider_section .carousel{
+    border:1px solid #777;
+}
+.slider_section{
+    background: #000;
+}
